@@ -1,4 +1,8 @@
-1.) This project showcases an end-to-end data workflow using SQL and Tableau.
+1.) Machine Learning Project that combines Cyber Security and Python programming to predict Spam/Ham mail.
+  LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7458589940445220864/
+
+
+2.) This project showcases an end-to-end data workflow using SQL and Tableau.
 
 In this demonstration, I:
 - Clean and transform raw data using SQL queries
@@ -11,7 +15,7 @@ In this demonstration, I:
 ########################################################################
 ########################################################################
 
-2.) Developed a custom website for the AIS Chapter using C# and CSS, focusing on clean design and organization branding.
+3.) Developed a custom website for the AIS Chapter using C# and CSS, focusing on clean design and organization branding.
 
 Key contributions:
 - Built the website using C# (backend) and CSS (frontend styling)
